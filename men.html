@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Men's Clothes | Shop for Men's Fashion </title>
+    <link rel="stylesheet" href="./css/footer.css" />
+    <link rel="stylesheet" href="./css/navbar.css" />
+    <link rel="stylesheet" href="./css/woman.css">
+</head>
+<body>
+    <div id="nav"></div>
+    <div id = "pagetitle">Men's Products</div>
+    <div id="filters">
+        <button onclick="window.location.href='cart.html'" class = "button">Go To Cart</button>
+        <select name="" id="selectprice" onchange="handlePriceSort()">
+            <option value="">Price to Short</option>
+            <option value="high">High to Low</option>
+            <option value="low">Low to High</option>
+        </select>
+
+        <select name="" id="brands">
+            <option value="">Select Brands</option>
+            <option value="">.Store</option>
+        </select>
+
+    </div>
+    <div id="cont"></div>
+    <div id="footer"></div>
+</body>
+<script src="./js/navbar.js"></script>
+<script src="./js/footer.js"></script>
+</html>
+<script src="./js/men.js"></script>

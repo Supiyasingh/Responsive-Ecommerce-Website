@@ -1,0 +1,146 @@
+/* Main section styling */
+.main-content {
+    position: relative;
+    height: 100vh; /* Full viewport height */
+    background: url('/Responsive-Ecommerce-Website/blonde-girl-with-man-holding-shopping-bags.jpg') center center/cover no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.overlay {
+    position: relative;
+    background: rgba(0, 0, 0, 0.5); /* Black overlay with transparency */
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.overlay h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.buttons {
+    margin-top: 10px;
+}
+
+.shop-button {
+    background-color: #ff5a5f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.shop-button:hover {
+    background-color: #e0484d;
+}
+
+
+.promo-banner {
+    background-color: #dfff00;
+    color: #000;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    position: relative;
+    z-index: 10;
+}
+.feature-boxes {
+    display: flex;
+    justify-content: space-between; /* Ensures equal spacing between boxes */
+    padding: 20px;
+    gap: 20px; /* Adds uniform spacing between boxes */
+}
+
+.box {
+    width: 23%; /* Ensures all boxes have equal width (100% divided by 4 boxes with spacing) */
+    height: 150px; /* Fixed height for uniform appearance */
+    display: flex;
+    align-items: center; /* Centers content vertically */
+    justify-content: center; /* Centers content horizontally */
+    text-align: center;
+    border-radius: 5px;
+    color: #000;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.neon-yellow {
+    background-color: #d8ff00;
+}
+
+.light-blue {
+    background-color: #a8f8e0;
+}
+
+.pink {
+    background-color: #ffb6c1;
+}
+
+.green {
+    background-color: #32cd32;
+}
+
+.headline {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.headline h2 {
+    font-size: 2rem;
+    color: #333;
+    margin: 0;
+}
+
+
+/* Trending Brands Section */
+#trending {
+    padding: 40px 20px;
+    background-color: #f9f9f9; /* Light background for contrast */
+    text-align: center;
+}
+
+.logotitle {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+#trendingbrands {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; /* Space between the logos */
+}
+
+#sixlogo {
+    width: 120px; /* Fixed size for each logo container */
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff; /* White background for logos */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+#sixlogo img {
+    width: 80%; /* Responsive sizing for logos */
+    height: auto;
+    object-fit: contain; /* Ensure logos fit within their container */
+}
+
+#sixlogo:hover {
+    transform: scale(1.1); /* Slight zoom effect on hover */
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); /* Enhanced shadow on hover */
+}
