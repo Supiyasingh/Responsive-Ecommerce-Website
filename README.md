@@ -5,19 +5,27 @@
  
  
 ### Home page
-![1](https://strong-tanuki-4d143d.netlify.app/)
+![1](https://github.com/Supiyasingh/Responsive-Ecommerce-Website/blob/main/img/screenshot_1_5_2025_3-46-42%20PM.png)
 
 
 
 ### Women Product page
-![2](https://user-images.githubusercontent.com/17312616/65086777-b1beb080-d9d0-11e9-9e2b-af3b7210bdf3.png)
+![2](https://github.com/Supiyasingh/Responsive-Ecommerce-Website/blob/main/img/screenshot_1_5_2025_3-52-10%20PM.png)
 
 
 
-### men page
-![3](https://user-images.githubusercontent.com/17312616/65086778-b2574700-d9d0-11e9-9377-8e4886f582a8.png)
+### login page
+![3](https://github.com/Supiyasingh/Responsive-Ecommerce-Website/blob/main/img/screenshot_1_5_2025_3-53-04%20PM.png)
+
+### signup page
+![4](https://github.com/Supiyasingh/Responsive-Ecommerce-Website/blob/main/img/screenshot_1_5_2025_3-53-28%20PM.png)
 
 
+### whishlist page
+![5](https://github.com/Supiyasingh/Responsive-Ecommerce-Website/blob/main/img/screenshot_1_5_2025_3-54-08%20PM.png)
+
+### cart page
+![6](https://github.com/Supiyasingh/Responsive-Ecommerce-Website/blob/main/img/screenshot_1_5_2025_3-54-32%20PM.png)
 
 ### Order confirm page
-![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
+![7](https://github.com/Supiyasingh/Responsive-Ecommerce-Website/blob/main/img/Screenshot%202025-01-05%20155709.png)
