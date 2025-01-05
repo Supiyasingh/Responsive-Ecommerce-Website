@@ -2,7 +2,7 @@
 .main-content {
     position: relative;
     height: 100vh; /* Full viewport height */
-    background: url('/Responsive-Ecommerce-Website/blonde-girl-with-man-holding-shopping-bags.jpg') center center/cover no-repeat;
+    background: url('/blonde-girl-with-man-holding-shopping-bags.jpg') center center/cover no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
