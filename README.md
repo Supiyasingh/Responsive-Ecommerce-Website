@@ -2,7 +2,8 @@
 # E-CommerceWebsite
  A .Store responsive sample of E-Commerce Website using HTML, CSS, JavaScript,json and API's
  
- 
+ [View Demo](https://strong-tanuki-4d143d.netlify.app/index.html)
+[backend link](https://wool-massive-beach.glitch.me)
  
 ### Home page
 ![1](https://github.com/Supiyasingh/Responsive-Ecommerce-Website/blob/main/img/screenshot_1_5_2025_3-46-42%20PM.png)
